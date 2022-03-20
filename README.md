@@ -1,23 +1,23 @@
 # SpamReporter
 
-This is full runnable full stack application. 
+# Full stack application 
 UI is in Angular and Backend is done using Spring boot framework
+This is fully running application
 
-Instructions to run application
 
-Frontend: 
+# Frontend: 
 Extract zip folder
 go to dir 
-run 'npm install'
+run 'npm install' (to install node modules)
 run 'ng serve'
 URL : localhost:4200
 
 Versions
 Angular CLI: 7.0.7
 Node: 10.16.0
-OS: win32 x64
 
-Backend:
+
+# Backend:
 Extract zip folder
 Go to app and run as 'spring boot appplication'
 
