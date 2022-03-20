@@ -6,11 +6,12 @@ This is fully running application
 
 
 # Frontend: 
-Extract zip folder
-go to dir 
-run 'npm install' (to install node modules)
+run following - 
+npm install
+npm install -g @angular/cli
+cd spamReporterUI
 run 'ng serve'
-URL : localhost:4200
+Once server is running, see it on - localhost:4200
 
 Versions
 Angular CLI: 7.0.7
@@ -19,6 +20,7 @@ Node: 10.16.0
 
 # Backend:
 Extract zip folder
-Go to app and run as 'spring boot appplication'
+Since application is done using spring boot, it has embedded tomcat server.
+Open application in IDE and run as 'spring boot appplication'
 
-Once both UI and backend servers are up and running, you could see the expected page on main page with necessary functionalities. 
+Once both UI and backend servers are up and running, you could see the expected page with necessary functionalities. 
